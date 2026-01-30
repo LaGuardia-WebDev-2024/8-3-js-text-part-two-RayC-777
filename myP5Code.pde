@@ -8,4 +8,9 @@ draw = function(){
   background(255, 255, 255);
   fill(255, 0, 255);
   ellipse(mouseX, mouseY, 12, 12); 
+
+  var label = XXXX + " , " + XXXXX;
+  text(label, XXXX, XXXX);
+
+
 };
